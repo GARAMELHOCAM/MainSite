@@ -1,1 +1,1 @@
-a
+console.log("Niye Buraya Bakıyon")
